@@ -1,0 +1,19 @@
+{
+    "name": "validate_test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon app"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.3",
+        "express-validator": "^6.14.0",
+        "morgan": "^1.10.0",
+        "nodemon": "^2.0.15"
+    }
+}
